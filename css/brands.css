@@ -41,7 +41,7 @@
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
-	--button-background:#FFFFFF;
+	--button-background:#ffffff;
 	--button-border:1px solid #212121;
 }
 
@@ -546,6 +546,12 @@
 	--button-text:#ffffff;
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
+}
+
+/* TPT */
+.button-tpt {
+	--button-text:#000000;
+	--button-background:#38df95;
 }
 
 /* Trello */
